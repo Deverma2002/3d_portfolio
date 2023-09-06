@@ -6,3 +6,4 @@ import StarsCanvas from "./Stars";
 export { EarthCanvas, BallCanvas, ComputersCanvas, StarsCanvas };
 
 // hello jkwhfkflnerwklfnerlfn
+// ggs
