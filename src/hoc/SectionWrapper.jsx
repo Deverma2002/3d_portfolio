@@ -21,4 +21,4 @@ import {staggerContainer} from '../utils/motion';
     )
  }
 
- export default SectionWrapper
+ export default SectionWrapper
